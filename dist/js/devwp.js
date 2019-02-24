@@ -1,0 +1,1 @@
+console.log("bolod");var ami="rasel";$("#myAnchor").click(function(e){e.preventDefault(),alert("hello");$(this).data("target");jQuery("html, body").animate({scrollTop:2e3},1e3)});
